@@ -1,0 +1,50 @@
+El marco MITRE ATT&CK ( https://attack.mitre.org) es un recurso increíble para aprender sobre las tácticas, técnicas y procedimientos (TTP) de un adversario. Tanto los profesionales de seguridad ofensiva (probadores de penetración, equipos rojos, cazadores de errores, etc.) como los equipos de respuesta a incidentes y de búsqueda de amenazas utilizan el marco MITRE ATT&CK en la actualidad. El marco MITRE ATT&CK es una colección de diferentes matrices de tácticas, técnicas y subtécnicas. Estas matrices, incluidas Enterprise ATT&CK Matrix, Network, Cloud, ICS y Mobile, enumeran las tácticas y técnicas que utilizan los adversarios mientras se preparan para un ataque, incluida la recopilación de información (inteligencia de fuente abierta [OSINT], identificación de debilidades técnicas y de personas). , y más) así como diferentes técnicas de explotación y post-explotación. Aprenderá más sobre MITRE ATT&CK a lo largo de este curso.
+-----------------------------------------------------------
+
+a Guía de pruebas de seguridad web (WSTG) de OWASP es una guía completa centrada en las pruebas de aplicaciones web. Es una recopilación de muchos años de trabajo de los miembros de OWASP. OWASP WSTG cubre las fases de alto nivel de las pruebas de seguridad de aplicaciones web y profundiza en los métodos de prueba utilizados. Por ejemplo, llega incluso a proporcionar vectores de ataque para probar secuencias de comandos entre sitios (XSS), ataques de entidades externas XML (XXE), falsificación de solicitudes entre sitios (CSRF) y ataques de inyección SQL; así como cómo prevenir y mitigar estos ataques. Aprenderá más sobre estos ataques en el Módulo 6, "Explotación de vulnerabilidades basadas en aplicaciones". Desde la perspectiva de las pruebas de seguridad de aplicaciones web, OWASP WSTG es la guía más detallada y completa disponible. Puede encontrar OWASP WSTG e información relacionada con el proyecto enhttps://owasp.org/www-project-web-security-testing-guide/ .
+-----------------------------------------------------------
+La Publicación Especial (SP) 800-115 es un documento creado por el Instituto Nacional de Estándares y Tecnología (NIST), que forma parte del Departamento de Comercio de EE. UU. NIST SP 800-115 proporciona a las organizaciones pautas sobre la planificación y realización de pruebas de seguridad de la información. Reemplazó al documento estándar anterior, SP 800-42. SP 800-115 se considera un estándar industrial para orientación sobre pruebas de penetración y se menciona en muchos otros estándares y documentos de la industria. Puede acceder a NIST SP 800-115 en https://csrc.nist.gov/publications/detail/sp/800-115/final .
+-------------------------------------------------------------
+
+El Manual de metodología de pruebas de seguridad de código abierto (OSSTMM), desarrollado por Pete Herzog, existe desde hace mucho tiempo. Distribuido por el Instituto de Seguridad y Metodologías Abiertas (ISECOM), el OSSTMM es un documento que establece pruebas de seguridad repetibles y consistentes ( https://www.isecom.org ). Actualmente se encuentra en la versión 3 y la versión 4 se encuentra en estado de borrador. El OSSTMM tiene las siguientes secciones clave:
+
+Métricas de seguridad operativa
+Análisis de confianza
+Flujo de trabajo
+Pruebas de seguridad humana
+Pruebas de seguridad física
+Pruebas de seguridad inalámbrica
+Pruebas de seguridad de telecomunicaciones
+Pruebas de seguridad de redes de datos
+Normativas de cumplimiento
+Informes con el Informe de auditoría de pruebas de seguridad (STAR)
+
+-------------------------------------------------------------------
+
+El Estándar de ejecución de pruebas de penetración (PTES) ( http://www.pentest-standard.org ) proporciona información sobre los tipos de ataques y métodos, y proporciona información sobre las últimas herramientas disponibles para llevar a cabo los métodos de prueba descritos. PTES implica siete fases distintas:
+
+Interacciones previas al compromiso
+La recogida de información
+Modelado de amenazas
+Análisis de vulnerabilidad
+Explotación
+Post-explotación
+Informes
+
+--------------------------------------------------------------
+
+El Marco de Evaluación de la Seguridad de los Sistemas de Información (ISSAF) es otra metodología de prueba de penetración similar a las demás en esta lista con algunas fases adicionales. ISSAF cubre las siguientes fases:
+
+Recopilación de información
+Mapeo de red
+Identificación de vulnerabilidad
+Penetración
+Obtención de acceso y escalada de privilegios
+Enumerar más
+Comprometiendo a usuarios/sitios remotos
+Mantener el acceso
+Cubriendo las pistas
+
+
+
+
